@@ -33,9 +33,8 @@
     <![endif]-->
 
     <script src="<c:url value='/resources/js/jquery.min.js'/>"></script>
-    <script src="<c:url value='/resources/js/bootstrap-datetimepicker.min.js'/>"></script>
-    <!--  US DatePicker calendar -->
-    <script src="<c:url value='/resources/js/bootstrap-datetimepicker.pt-US.js'/>"></script>
+    <script src="<c:url value='/resources/js/bootstrap-datepicker.js'/>"></script>
+    <!--  US DatePicker calendar -->    
     <script src="<c:url value='/resources/js/application.js'/>"></script>
 
     <link rel="apple-touch-icon-precomposed" sizes="144x144"
@@ -45,5 +44,5 @@
     <link rel="apple-touch-icon-precomposed" sizes="72x72"
           href="<c:url value='/resources/ico/apple-touch-icon-72-precomposed.png'/>">
     <link rel="apple-touch-icon-precomposed" href="<c:url value='/resources/ico/apple-touch-icon-57-precomposed.png'/>">
-    <link rel="shortcut icon" href="<c:url value='/resources/ico/favicon.png'/>">
+    <link rel="shortcut icon" href="<c:url value='/resources/ico/favicon_rs.ico'/>">
 </head>

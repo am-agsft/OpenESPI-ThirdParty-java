@@ -29,8 +29,9 @@
 
     <!-- Main hero unit for a primary marketing message or call to action -->
     <div class="hero-unit">
-        <h1>Third Party Administrative Portal</h1>
-        <p>This is a template that exemplifies a minimal set of facilities needed to manage the Third Party sandbox. You may review the retail customers in
+        <h1>Renova Solar Administrative Portal</h1>
+        <p>Renova Energy provides this portal as a convenience for customers to provide access to their utility usage in order to share it with Renova so that we may develop accurate offset calculations for Solar System and Energy Storage Solutions.</p>
+        <!--<p>This is a template that exemplifies a minimal set of facilities needed to manage the Third Party sandbox. You may review the retail customers in
         in the sandbox, and look at the BatchLists that have been created as the result of notifications having been received from the DataCustodian.
   
 
@@ -46,6 +47,7 @@
             <h2>Community</h2>
             <p>Please consider following the discussions of the <a href="http://www.greenbuttondata.org/community">Green Button Community</a> so that you may stay current with issues involved in being a Green Button Third Party.
         </div>
+        -->
     </div>
 
     <hr>

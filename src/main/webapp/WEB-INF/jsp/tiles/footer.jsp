@@ -17,17 +17,11 @@
 <script src="<c:url value='/resources/js/jquery.min.js'/>"></script>
 
 <footer id="footer">
-<hr size="4">
+
 	<div style="width:100%; margin-left: auto 0px;">
 
 		<ul class="inline">
-			<li><img src="<c:url value='/resources/ico/favicon.png'/>"
-				width="20" />&nbsp;<a href="http://www.greenbuttondata.org">Green Button for America</a></li>
-			<li>|| <a href="<c:url value='/TermsOfService' />">Terms of Service</a></li>
-			<li>|| <a href="<c:url value='/UsagePolicy' />">Usage Policy</a></li>
-			<li>|| <a href="<c:url value='/about-version' />">About</a></li>
-			<li>|| <a href="<c:url value='/Sponsors' /> ">Sponsors</a></li>
-			<li>|| &copy; <a href="http://www.EnergyOS.org/">EnergyOS.org</a> 2013, 2014 </li>
+			<li><a target="_blank" style="font-size:16px;" href="http://www.renovasolar.com">Renova Solar</a></li>			
 		</ul>
 
 	</div>

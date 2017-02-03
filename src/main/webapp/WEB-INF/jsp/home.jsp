@@ -25,9 +25,11 @@
 <jsp:include page="tiles/customer/header.jsp"/>
 
 <div class="container">
-
-    <!-- Main hero unit for a primary marketing message or call to action -->
-    <!-- Main hero unit for a primary marketing message or call to action -->
+	<div class="hero-unit">
+		<h1>Welcome to Renova Energy Green Button Data Portal</h1>
+			
+	</div>
+    <!-- 
     <div class="hero-unit">
 	<h2>Welcome to the <a href="http://www.energyos.org">EnergyOS</a> Green Button Third Party</h2>
 	<p><a href="http://www.energyos.org">EnergyOS</a> has, with the support of <a href="http://pivotallabs.com/">Pivotal Labs</a>, prepared a reference Green Button Third Party implementation.
@@ -40,8 +42,6 @@
 
     </p>
     </div>
-
-    <!-- Example row of columns -->
     <div class="row">
         <div class="span4">
             <h3>Third Party Services</h3>
@@ -67,7 +67,8 @@
             <p><a class="btn" href="http://energyos.github.io/OpenESPI-GreenButton-API-Documentation/API/">View details &raquo;</a></p>
         </div>
     </div>
-
+	-->
+	
     <hr>
 
     <jsp:include page="tiles/footer.jsp"/>
